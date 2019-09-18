@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite thread-count="3" name="Suite" parallel="methods">-->
+<suite name="Suite" parallel="tests">
+
+  <test name="Test">
+    <classes>
+
+
+
+
+        <class name="sftp.test.v1.Sample3Test"/>
+        <!--<class name="sftp.test.v1.JobReqTest"/>-->
+
+        <!--<class name="sftp.test.v1.FakerTest"/>-->
+
+
+        <!--<class name="sftp.test.v1.Sample2Test"/>
+        <class name="sftp.test.v1.SampleTest"/>
+        <class name="sftp.test.v1.Sample1Test"/>
+        <class name="sftp.test.v1.JobReqTest"/>
+        <class name="sftp.test.v1.Sample3Test"/>
+        <class name="sftp.test.v1.Sample4Test"/>
+        <class name="sftp.test.v1.Sample5Test"/>-->
+
+
+
+
+
+    </classes>
+  </test>
+
+
+</suite>

@@ -10,5 +10,5 @@ build/
 .idea/
 bin/
 out/
-.gradle
+.gradle/
 .build
