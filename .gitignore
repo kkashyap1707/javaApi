@@ -1,0 +1,14 @@
+/test-output/
+/test-output-log/
+/test-output-spark/
+target/**
+.settings/
+.project
+.classpath
+.target
+build/
+.idea/
+bin/
+out/
+.gradle
+.build
